@@ -1,4 +1,4 @@
-@extends('layout.app')
+@extends('layoutS.app')
 @section('title', 'Edit Proyect')
 @section('heading', 'Edit This Proyect')
 @section('link_text', 'Proyectos')

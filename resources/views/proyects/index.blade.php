@@ -1,4 +1,4 @@
-@extends('layout.app')
+@extends('layouts.app')
 @section('title', 'Pagina Principal')
 @section('heading', 'Todos los proyectos')
 @section('link_text', 'Nuevo Proyecto')
